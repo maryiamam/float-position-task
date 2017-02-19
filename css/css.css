@@ -1,0 +1,182 @@
+body {
+  height : 2000px;
+}
+
+* {
+  font-family: Myriad Pro;
+}
+
+.boss{
+  width: 360px;
+  margin: auto;
+}
+.c1 {
+  position: relative;
+  left: 54px;
+  top: 32px;
+}
+.bark1 {
+  position: relative;
+  left: 300px;
+  bottom: 499px;
+  width: 75px;
+  height: 20px;
+  background-color: rgb(0, 174, 239);
+  border-style: solid;
+  border-bottom-right-radius: 10px;
+  border-width: 2px;
+}
+
+.c2 {
+  position: relative;
+  left: 44px;
+  top: -525px;
+}
+.bark2 {
+  position: relative;
+  left: 320px;
+  bottom: 500px;
+  width: 75px;
+  height: 20px;
+  background-color: rgb(57, 181, 74);
+  border-style: solid;
+  border-bottom-right-radius: 10px;
+  border-width: 2px;
+}
+
+.c3 {
+  position: relative;
+  left: 30px;
+  top: -1080px;
+}
+.bark3 {
+  position: relative;
+  left: 342px;
+  bottom: 500px;
+  width: 75px;
+  height: 20px;
+  background-color: rgb(246, 142, 86);
+  border-style: solid;
+  border-top-right-radius: 10px;
+  border-bottom-right-radius: 10px;
+  border-width: 2px;
+}
+
+.text1{
+  position: relative;
+  bottom: 535px;
+  font-size: 17px;
+  margin: 20px;
+}
+
+.css_is{
+  position: relative;
+  bottom: 570px;
+  float: left;
+  margin: 20px;
+  display: inline-block;
+}
+
+.text2{
+  position: relative;
+  display: inline-block;
+  float: right;
+  bottom: 700px;
+  font-size: 8px;
+  margin: 20px;
+  width: 150px;
+}
+
+.text3{
+  position: relative;
+  display: inline-block;
+  bottom: 738px;
+  font-size: 8px;
+  margin: 20px;
+  width: 315px;
+}
+
+.css_are{
+    position: relative;
+    bottom: 770px;
+    float: right;
+    margin: 20px;
+    display: inline-block;
+}
+
+.text4{
+    position: relative;
+    display: inline-block;
+    float: left;
+    bottom: 913px;
+    font-size: 8px;
+    margin: 20px;
+    width: 208px;
+}
+
+.text5{
+  position: relative;
+  display: inline-block;
+  bottom: 930px;
+  font-size: 12px;
+  margin: 20px;
+  width: 315px;
+}
+
+.fir{
+    position: relative;
+    bottom: 960px;
+    float: left;
+    margin: 20px;
+    display: inline-block;
+}
+
+.sec{
+    position: relative;
+    bottom: 960px;
+    float: right;
+    margin: 20px;
+    display: inline-block;
+}
+.tri{
+    position: relative;
+    bottom: 990px;
+    float: left;
+    margin: 20px;
+    display: inline-block;
+}
+.fo{
+    position: relative;
+    bottom: 990px;
+    float: right;
+    margin: 20px;
+    display: inline-block;
+}
+
+.text6{
+  position: relative;
+  display: inline-block;
+  bottom: 1030px;
+  font-size: 7px;
+  margin: 20px;
+  width: 315px;
+  text-align: center;
+}
+
+.sticker {
+  float: right;
+  position: fixed;
+  right: 0;
+  top: 500px;
+  width: 45px;
+  height: 50;
+  background-color: rgb(251, 175, 93);
+  border-style: solid;
+  border-width: thin;
+  font-size: 10px;
+  padding: 6px;
+}
+
+.text{
+  text-align: center;
+}
